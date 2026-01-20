@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-suite-dashboard-tenant",
+  "name": "Tenant Dashboard",
+  "version": "0.1.0",
+  "class": "suite",
+  "description": "Privilege-driven Tenant dashboard for operational control",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-suite-dashboard-tenant"
+  }
+}
